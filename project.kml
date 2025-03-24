@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>project</name>
+	<gx:CascadingStyle kml:id="__managed_style_3C8085448D36FCF17CFB">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.41176</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2F44B80FDB36FCF17CFB">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.94118</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_132D401C7A36FCF17CFB">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_2F44B80FDB36FCF17CFB</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_3C8085448D36FCF17CFB</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0EFAF0AE4436FCF17CF7">
+		<name>Real Estate Souq</name>
+		<gx:mid>/g/11b6wm1xzf</gx:mid>
+		<gx:fid>0x3e91ff4b01f3b19d:0x813fa039016c54b0</gx:fid>
+		<LookAt>
+			<longitude>58.46134179999999</longitude>
+			<latitude>23.6126243</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>958.3658633053599</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_132D401C7A36FCF17CFB</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>58.461336,23.6126264,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FC96D18CB36FCF21F1E">
+		<name>Sohar Real Estate Development - Majd</name>
+		<gx:mid>/g/11y6hq0cjg</gx:mid>
+		<gx:fid>0x3e8b5d004a268b27:0x5a2f1614b154ff99</gx:fid>
+		<LookAt>
+			<longitude>56.7490749</longitude>
+			<latitude>24.3230811</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>952.5160312964007</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_132D401C7A36FCF17CFB</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>56.7490749,24.3230811,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
